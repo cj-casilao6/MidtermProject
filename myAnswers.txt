@@ -1,0 +1,23 @@
+Calculated Rectangle Perimeter for line 1: 16
+Calculated Rectangle Perimeter for line 2: 52
+Calculated Rectangle Perimeter for line 3: 128
+Calculated Rectangle Perimeter for line 4: 62
+Calculated Rectangle Perimeter for line 5: 148
+
+Calculated Rectangle Area for line 1: 15
+Calculated Rectangle Area for line 2: 168
+Calculated Rectangle Area for line 3: 448
+Calculated Rectangle Area for line 4: 198
+Calculated Rectangle Area for line 5: 1200
+
+Calculated Circle Perimeter for line 1: 25.1327
+Calculated Circle Perimeter for line 2: 69.115
+Calculated Circle Perimeter for line 3: 144.513
+Calculated Circle Perimeter for line 4: 81.6814
+Calculated Circle Perimeter for line 5: 106.814
+
+Calculated Circle Area for line 1: 50.2655
+Calculated Circle Area for line 2: 380.133
+Calculated Circle Area for line 3: 1661.9
+Calculated Circle Area for line 4: 530.929
+Calculated Circle Area for line 5: 907.92
