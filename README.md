@@ -1,2 +1,2 @@
 # MidtermProject
-Counts number of heads and tails when simulating coin flips.
+Calculates perimeter and area of circle and rectangle
